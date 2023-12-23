@@ -9,8 +9,6 @@
         <h1>....</h1>
       </div>
     </div>
-    <ClientOnly>
-      <TheExperience />
-    </ClientOnly>
+    <TheExperience />
   </section>
 </template>
