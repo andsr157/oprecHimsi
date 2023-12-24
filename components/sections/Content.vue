@@ -3,7 +3,7 @@ const reverse = ref(false)
 </script>
 
 <template>
-  <div class="px-7 h-[500px] md:h-96">
+  <div class="px-7 h-[500px] md:h-80">
     <div class="flex gap-4 font-[Satoshi-Variable] font-medium text-sm">
       <a href="https://bit.ly/HIMSI2024" target="_blank">
         <button
