@@ -3,6 +3,7 @@
   "author": "Alvaro Saburido <hola@alvarosaburido.dev> (https://github.com/alvarosabu/)",
   "scripts": {
     "build": "nuxt build",
+    "deploy": "gh-pages -d dist",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
@@ -21,6 +22,7 @@
   },
   "dependencies": {
     "@studio-freight/lenis": "^1.0.29",
+    "gh-pages": "^6.1.1",
     "gsap": "^3.12.4"
   }
 }
